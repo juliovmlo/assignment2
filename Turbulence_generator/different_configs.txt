@@ -1,0 +1,65 @@
+Case #1
+
+For t_end_max = 102.4 s, deltaT = 0.1 s and V0_H = 9 m/s
+
+3
+3
+1024
+32
+32
+921.6
+180
+180
+land
+9
+119
+0.05
+0
+-5 
+sim1.bin
+sim2.bin
+sim3.bin
+
+Case #2
+
+For t_end_max = 409.6 s anf deltaT = 0.1 s and V0_H = 9 m/s
+
+3
+3
+4096
+32
+32
+3686.4
+180
+180
+land
+9
+119
+0.05
+0
+-5 
+sim1.bin
+sim2.bin
+sim3.bin
+
+Case #3
+
+For t_end_max = 409.6 s anf deltaT = 0.1 s and V0_H = 14 m/s
+
+3
+3
+4096
+32
+32
+5734.4
+180
+180
+land
+14
+119
+0.05
+0
+-5 
+sim1.bin
+sim2.bin
+sim3.bin
